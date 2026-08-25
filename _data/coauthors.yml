@@ -1,0 +1,22 @@
+# Co-authors for Kim Kyung Dong (김경동) publications
+# This helps al-folio highlight collaborators in the publications page
+
+"Kim":
+  - firstname: ["Kyungdong", "Kyung Dong", "K."]
+    url: https://github.com/kkyungdong
+    affiliation: Seoul National University
+
+"Kim":
+  - firstname: ["Sehoon", "S."]
+    affiliation: Seoul National University
+
+"Lee":
+  - firstname: ["A."]
+    affiliation: ""
+
+"Cho":
+  - firstname: ["T."]
+  - firstname: ["J."]
+
+"Jeong":
+  - firstname: ["M."]

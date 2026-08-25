@@ -1,0 +1,100 @@
+- title: General Information / 인적사항
+  type: map
+  contents:
+    - name: Full Name / 성명
+      value: Kim Kyung Dong (김경동, 金鏡東)
+    - name: Date of Birth / 생년월일
+      value: September 23, 1990 / 1990년 09월 23일
+    - name: Languages / 언어
+      value: Korean (Native), English
+
+- title: Education / 학력
+  type: time_table
+  contents:
+    - title: Ph.D. Student / 박사과정
+      institution: Seoul National University, Graduate School of Environmental Studies / 서울대학교 환경대학원
+      department: Interdisciplinary Program in Landscape Architecture / 협동과정 조경학과
+      year: 2025.09 – Present
+    - title: M.S. / 석사
+      institution: Seoul National University, Graduate School of Environmental Studies / 서울대학교 환경대학원
+      department: Urban Design, Department of Landscape Architecture / 환경조경학과 도시설계학전공
+      year: 2016.03 – 2018.08
+    - title: B.S. / 학사
+      institution: Cheongju University / 청주대학교
+      department: Environmental Landscape Architecture, College of Science and Engineering / 이공대학 환경조경학과
+      year: 2009.03 – 2015.02
+    - title: High School / 고등학교
+      institution: Jeomchon High School / 점촌고등학교
+      year: 2006.03 – 2009.02
+
+- title: Professional Experience / 주요경력
+  type: time_table
+  contents:
+    - title: CEO / 대표
+      institution: Urbanstone / 어반스톤
+      year: 2023.09 – 2025.08
+    - title: Urban Design & Planning Team Member / 도시설계·계획 팀원
+      institution: Urban Platform / 어반플랫폼
+      year: 2020.01 – 2023.07
+    - title: Landscape Construction Supervisor Assistant / 조경공사 감독보조
+      institution: Korea Land & Housing Corporation (LH) / 한국토지주택공사
+      description: Cheongna–Yeongjong Urban Development / 청라·영종 도시개발
+      year: 2019.02 – 2019.10
+    - title: Team Member, Urban Development & Management / 팀원
+      institution: Hanssem Research Institute / 한샘연구소
+      year: 2018.09 – 2018.12
+
+- title: Teaching / 강의보조
+  type: time_table
+  contents:
+    - title: Teaching Assistant — Generative AI Urban Design / 생성형AI 도시설계
+      institution: Seoul National University (Prof. Sehoon Kim) / 서울대학교 (담당교수 김세훈)
+      year: 2026-01
+
+- title: Awards & Honors / 수상내역
+  type: time_table
+  contents:
+    - year: 2016.06
+      items:
+        - Encouragement Prize, Ansan City Urban-Environmental Policy Joint Research (Dean, GSES, SNU) / 안산시 도시환경정책 공동연구 장려상 (서울대학교 환경대학원장)
+    - year: 2014.12
+      items:
+        - Best Volunteer Award (Environmental Landscape Sharing Research Institute) / 환경조경 나눔연구원 베스트봉사상
+    - year: 2014.10
+      items:
+        - Honorable Mention, 11th Korea Environmental Landscape Architecture Competition (KILA) / 제11회 대한민국 환경조경대전 가작
+    - year: 2014.09
+      items:
+        - 3rd Prize, 1st Suncheon Bay National One-Pyeong Garden Festival (Mayor of Suncheon) / 제1회 순천만 전국 한평정원 페스티벌 3등
+    - year: 2013.07
+      items:
+        - Grand Prize, 20th Landscape Design Camp (KILA) / 제20회 조경디자인캠프 대상
+    - year: 2009.10
+      items:
+        - Selected Work, 6th Korea Environmental Landscape Architecture Competition / 제6회 대한민국 환경조경대전 입선
+
+- title: Certifications / 자격사항
+  type: time_table
+  contents:
+    - year: 2020.06
+      items:
+        - Engineer Urban Planning / 도시계획기사 (HRDK / 한국산업인력공단)
+    - year: 2014.11
+      items:
+        - Engineer Natural Environment Restoration / 자연생태복원기사 (HRDK)
+    - year: 2014.05
+      items:
+        - Engineer Landscape Architecture / 조경기사 (HRDK)
+
+- title: Research Interests / 연구 관심사
+  type: nested_list
+  contents:
+    - title: Generative AI in Urban Design / 생성형 AI 도시설계
+      items:
+        - Prompt Engineering & Reasoning Structures (Zero-Shot, CoT, ToT)
+        - AI-Powered Planning for Urban Crowd Phenomena
+    - title: Landscape Architecture & Garden Culture / 조경학 · 정원문화
+      items:
+        - Private Garden Typology & Institutional Support
+        - Publicness of Open Gardens
+    - title: Urban Regeneration & Spatial-Environmental Strategy / 도시재생 · 공간환경전략
